@@ -7,3 +7,12 @@
   font-family: "Inter", Arial, sans-serif;
   font-family: "Noto Serif", "Times New Roman", serif;
 }
+
+.header {
+  display: flex;
+}
+
+.contents__list {
+  display: flex;
+  justify-content: flex-end;
+}
