@@ -12,43 +12,6 @@
 
 @import url(../blocks/form.css);
 
-.menu {
-  background: url(../images/background_menu.svg) center/cover no-repeat #fff;
-}
+@import url(../blocks/menu.css);
 
-.menu__title {
-  padding: 100px 0 24px;
-  max-width: 780px;
-}
-
-.menu__subtitle {
-  margin: 0;
-  padding: 0;
-  max-width: 780px;
-}
-
-.menu__cards {
-  display: flex;
-  margin: 100px auto;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 100px;
-}
-.card {
-  display: flex;
-  flex-direction: column;
-  width: 540px;
-}
-
-.card__title {
-  display: flex;
-  align-self: flex-start;
-}
-
-.card__list-item {
-  list-style-type: none;
-}
-
-.card__list-divider {
-  border-bottom: #838383;
-}
+@import url(../blocks/card.css);

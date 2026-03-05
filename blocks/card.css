@@ -1,0 +1,18 @@
+/* .card {
+  display: flex;
+  flex-direction: column;
+  width: 540px;
+}
+
+.card__title {
+  display: flex;
+  align-self: flex-start;
+}
+
+.card__list-item {
+  list-style-type: none;
+}
+
+.card__list-divider {
+  border-bottom: #838383;
+} */
