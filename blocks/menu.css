@@ -8,19 +8,40 @@
 
 .menu__title {
   margin: 0 0 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .menu__subtitle {
+  text-align:center;
   margin: 0 0 100px;
+  max-width: 780px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .menu__cards {
   margin: 0;
   padding: 0;
   list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px;
+  justify-content: center;
 }
 
 .card__list-divider {
   display:flex;
 
+}
+
+.card__list {
+  margin: 0;
+padding:0%;
 }
