@@ -1,3 +1,20 @@
 .about {
   background: #0A2850;
+  color: #fff;
+}
+
+.about__content {
+  margin:119px 80px 173px;
+  max-width: 660px;
+}
+
+.about__paragraph{
+  gap: 20px;
+}
+
+.about__circle {
+  size: 426px;
+  background: #1878DC;
+  border-radius: 50%;
+  /* position:absolute; */
 }
