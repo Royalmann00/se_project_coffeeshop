@@ -35,13 +35,3 @@
   gap: 100px;
   justify-content: center;
 }
-
-.card__list-divider {
-  display:flex;
-
-}
-
-.card__list {
-  margin: 0;
-padding:0%;
-}
