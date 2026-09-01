@@ -24,6 +24,11 @@
 .footer__social-heading {
   margin:0;
   padding: 0px 0px 20px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 
@@ -50,9 +55,25 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+
+}
+
+.footer__social-link:hover {
+  opacity: 70%;
+  transition: .2s ease-in;
 
 }
 
 .footer__copyright {
   margin:108px 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
