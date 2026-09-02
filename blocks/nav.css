@@ -19,6 +19,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  transition: 0.2s ease-in;
 }
 
 .nav__logo {
@@ -29,7 +30,5 @@
 }
 
 .nav__link:hover {
-  opacity: 50%;
-  transition: 0.2s ease-in;
-
+  opacity: 0.5;
 }
