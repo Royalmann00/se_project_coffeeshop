@@ -2,7 +2,7 @@
   background: linear-gradient(180deg, #0A2850 0%, #071931 100%);
   font-family: "Inter", Arial;
   color: #fff;
-  padding: 60px 80px 100px;
+  padding: 60px 80px 80px;
 
 }
 
@@ -70,7 +70,7 @@
 }
 
 .footer__copyright {
-  margin:108px 0;
+  margin:108px 0 0;
   font-family: "Inter";
   font-style: normal;
   font-weight: normal;
